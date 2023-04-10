@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/mohamedreda22.github.io/FCAIH.eg/static/css/main.38088cf9.css",
-    "main.js": "/mohamedreda22.github.io/FCAIH.eg/static/js/main.fd4a62e3.js",
-    "static/media/bg.png": "/mohamedreda22.github.io/FCAIH.eg/static/media/bg.dd6ac30ab1d1e75d109b.png",
-    "static/media/motorbike.jpeg": "/mohamedreda22.github.io/FCAIH.eg/static/media/motorbike.c9d2fe82152ea93d1997.jpeg",
-    "static/media/house.jpg": "/mohamedreda22.github.io/FCAIH.eg/static/media/house.2198b917c1b7018214bb.jpg",
-    "static/media/logo.png": "/mohamedreda22.github.io/FCAIH.eg/static/media/logo.3f25728a2ed322a81835.png",
-    "static/media/smphone.webp": "/mohamedreda22.github.io/FCAIH.eg/static/media/smphone.1ea2ddc643739c25d2a6.webp",
-    "static/media/car.jpg": "/mohamedreda22.github.io/FCAIH.eg/static/media/car.472c4be5a178a080c70f.jpg",
-    "static/media/totAnkhAmon.jpg": "/mohamedreda22.github.io/FCAIH.eg/static/media/totAnkhAmon.e884c5aa1bad90c68887.jpg",
-    "static/media/iphone.webp": "/mohamedreda22.github.io/FCAIH.eg/static/media/iphone.3459cec4c79e0dd8d5db.webp",
-    "static/media/macbook.jpg": "/mohamedreda22.github.io/FCAIH.eg/static/media/macbook.b537e99a4b5f04918aab.jpg",
-    "static/media/LinkedIn_icon_circle.svg.png": "/mohamedreda22.github.io/FCAIH.eg/static/media/LinkedIn_icon_circle.svg.c98fb3b64eecd80d2ca1.png",
-    "index.html": "/mohamedreda22.github.io/FCAIH.eg/index.html",
-    "main.38088cf9.css.map": "/mohamedreda22.github.io/FCAIH.eg/static/css/main.38088cf9.css.map",
-    "main.fd4a62e3.js.map": "/mohamedreda22.github.io/FCAIH.eg/static/js/main.fd4a62e3.js.map"
+    "main.css": "/FCAIH.eg/static/css/main.38088cf9.css",
+    "main.js": "/FCAIH.eg/static/js/main.3da308e2.js",
+    "static/media/bg.png": "/FCAIH.eg/static/media/bg.dd6ac30ab1d1e75d109b.png",
+    "static/media/motorbike.jpeg": "/FCAIH.eg/static/media/motorbike.c9d2fe82152ea93d1997.jpeg",
+    "static/media/house.jpg": "/FCAIH.eg/static/media/house.2198b917c1b7018214bb.jpg",
+    "static/media/logo.png": "/FCAIH.eg/static/media/logo.3f25728a2ed322a81835.png",
+    "static/media/smphone.webp": "/FCAIH.eg/static/media/smphone.1ea2ddc643739c25d2a6.webp",
+    "static/media/car.jpg": "/FCAIH.eg/static/media/car.472c4be5a178a080c70f.jpg",
+    "static/media/totAnkhAmon.jpg": "/FCAIH.eg/static/media/totAnkhAmon.e884c5aa1bad90c68887.jpg",
+    "static/media/iphone.webp": "/FCAIH.eg/static/media/iphone.3459cec4c79e0dd8d5db.webp",
+    "static/media/macbook.jpg": "/FCAIH.eg/static/media/macbook.b537e99a4b5f04918aab.jpg",
+    "static/media/LinkedIn_icon_circle.svg.png": "/FCAIH.eg/static/media/LinkedIn_icon_circle.svg.c98fb3b64eecd80d2ca1.png",
+    "index.html": "/FCAIH.eg/index.html",
+    "main.38088cf9.css.map": "/FCAIH.eg/static/css/main.38088cf9.css.map",
+    "main.3da308e2.js.map": "/FCAIH.eg/static/js/main.3da308e2.js.map"
   },
   "entrypoints": [
     "static/css/main.38088cf9.css",
-    "static/js/main.fd4a62e3.js"
+    "static/js/main.3da308e2.js"
   ]
 }
