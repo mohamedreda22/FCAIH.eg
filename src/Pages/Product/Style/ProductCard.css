@@ -1,0 +1,49 @@
+.Product-Card {
+    width: 25%;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+}
+
+.Product-Card .Card-info {
+    padding: 15px;
+    text-align: center;
+}
+
+.Product-Card .Card-info .title {
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(165, 42, 42);
+}
+
+.Product-Card .Card-info .title .info {
+    color: gray;
+    font-size: 12px;
+    margin: 10px;
+}
+
+.Product-Card .Card-info button {
+    background-color: rgb(42, 165, 61);
+    color: white;
+    text-align: center;
+    border: 0;
+    padding: 5px 10px;
+    margin-top: 20px;
+}
+
+.Product-Card .Card-top {
+    width: 100%;
+    height: 250px;
+}
+
+.Product-Card .Card-top img {
+    width: 100%;
+    height: 100%;
+    object-fit: auto;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.Product-Card .Card-info button a {
+    color: white;
+    text-decoration: none;
+}

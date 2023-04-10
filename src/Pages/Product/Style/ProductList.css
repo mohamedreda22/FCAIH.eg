@@ -1,0 +1,14 @@
+.Product-List {
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.Product-List .Product-Card {
+    width: 20%;
+    margin-bottom: 20px;
+    margin: 10px;
+}
