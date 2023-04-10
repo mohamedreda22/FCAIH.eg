@@ -1,11 +1,11 @@
-import house from '../images/house.jpg';
-import car from '../images/car.jpg';
-import iphone from '../images/iphone.webp';
-import macbook from '../images/macbook.jpg';
-import smphone from '../images/smphone.webp';
-import ps5 from '../images/ps5.jpg';
-import totAnkhAmon from '../images/totAnkhAmon.jpg';
-import motorbike from '../images/motorbike.jpeg'
+import house from '../../assets/images/house.jpg';
+import car from '../../assets/images/car.jpg';
+import iphone from '../../assets/images/iphone.webp';
+import macbook from '../../assets/images/macbook.jpg';
+import smphone from '../../assets/images/smphone.webp';
+import ps5 from '../../assets/images/ps5.jpg';
+import totAnkhAmon from '../../assets/images/totAnkhAmon.jpg';
+import motorbike from '../../assets/images/motorbike.jpeg'
 export const Data = [{
         id: 1,
         name: 'Range Rover',

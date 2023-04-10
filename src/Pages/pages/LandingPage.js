@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import logo from '../../../../assets/images/logo.png'
-import '../../App.css'
+import logo from '../../assets/images/logo.png'
+import '../../Style/App.css'
 import BackgroundImage from '../../assets/images/bg.png'
 
 export default function LandingPage() {
@@ -18,7 +18,7 @@ export default function LandingPage() {
                 </Link>
             </div>
             <image>
-                <img src={logo} style={{height:'150px',padding:'2px', margin:"15px"}} />
+                <img src={logo} alt='logo'  style={{height:'150px',padding:'2px', margin:"15px"}} />
             </image>
         </header>
     )
