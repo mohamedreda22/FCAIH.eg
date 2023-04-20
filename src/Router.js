@@ -11,6 +11,7 @@ import ForgetPasswordPage from "./Pages/pages/ForgetPasswordPage";
 import LandingPage from "./Pages/pages/LandingPage";
 import Footer from "./Shared/Footer";
 import Header1 from "./Shared/Header1";
+import AddYourProduct from "./Pages/Product/Components/AddYourProduct";
   export const router = createBrowserRouter([
     {
         path: '',
@@ -59,6 +60,10 @@ import Header1 from "./Shared/Header1";
                   {
                     path: "/logout",
                     element: <><LandingPage/><Footer/></>
+                  },                  
+                  {
+                    path: "/addyourproduct",
+                    element: <><Header1/><AddYourProduct/><Footer/></>
                   },
         ],}
 

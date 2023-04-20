@@ -15,8 +15,14 @@ const Header1=()=>{
          <nav>
             <ul>               <li></li>
 
-                <li>
+            <li>
                   <Link to={'/home'}>Home</Link>
+               </li>                
+               <li>
+                       <div>
+                                 <Link to={'/addyourproduct'}>Add your product</Link>
+
+                     </div>
                </li>
 
                <li>

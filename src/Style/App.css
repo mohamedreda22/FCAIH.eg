@@ -160,3 +160,18 @@ form span {
 * {
     text-align: center;
 }
+
+
+/***    Add Product Page     ***/
+
+.add_product {
+    display: inline-block;
+    background: #f3f3f3;
+    border: 5px solid #ddd;
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 1rem 0 -10rem 0;
+    text-align: left;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
