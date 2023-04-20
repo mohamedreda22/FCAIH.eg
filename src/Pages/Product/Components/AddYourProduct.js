@@ -38,8 +38,8 @@ const AddYourProduct=()=> {
                         <option value="electronics">Electronics</option>
                         <option value="antiquities">Antiquities</option>
                     </select>
-{/*                     <input type="option" id='SG' name="Product_Catagory" required />
- */}                </p>                
+                                
+                </p>                
                 <p>
                     <label for="myfile">Upload Image</label>
                     <br/>
